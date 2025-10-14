@@ -6,4 +6,4 @@ Whether you're a seasoned tech adventurer or a curious newcomer, you'll gain ins
 
 [@Sealjay](http://github.com/Sealjay/) & [@KnowledgeRatio](https://github.com/KnowledgeRatio)
 
-[Find us on YouTube](https://www.youtube.com/watch?v=NKoH-UPi3LY) or see our recent videos at [https://securingtherealm.github.io/](https://securingtherealm.github.io/)
+[Find us on YouTube](https://www.youtube.com/watch?v=NKoH-UPi3LY) or see our recent videos at [https://securing.quest](https://securing.quest/)
